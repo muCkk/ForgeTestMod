@@ -1,0 +1,21 @@
+#ignored files
+common/cpw/
+common/fml_at.cfg
+common/fml_marker.cfg
+common/fmlversion.properties
+common/forge_at.cfg
+common/org/
+common/net/minecraft/server/*
+common/net/minecraft/src/*
+common/net/minecraftforge/
+
+minecraft/cpw/
+minecraft/ibxm/
+minecraft/net/
+minecraft/paulscode/
+minecraft/forge_logo.png
+minecraft/Start.java
+
+minecraft_server/
+
+#excluded files
